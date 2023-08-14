@@ -21,3 +21,4 @@ Holders get to live their dream of being a part of an animation studio that know
 * [Web](https://animemelabs.com/)
 * [X](https://twitter.com/AnimemeLabs)
 * [YouTube](https://youtube.com/animeme)
+* [Github](https://github.com/animemelabs)
