@@ -22,4 +22,8 @@
       * [BasicTokenURIStorage](smart-contracts/docs/facets/basictokenuri/basictokenuristorage.md)
       * [BasicTokenURIFacetERC721A](smart-contracts/docs/facets/basictokenuri/basictokenurifaceterc721a.md)
       * [IBasicTokenURIFacet](smart-contracts/docs/facets/basictokenuri/ibasictokenurifacet.md)
+    * [DiamondOwner](smart-contracts/docs/facets/diamondowner.md)
+    * [ERC712](smart-contracts/docs/facets/erc712.md)
+    * [ERC712Update](smart-contracts/docs/facets/erc712update.md)
+    * [ERC721A](smart-contracts/docs/facets/erc721a.md)
     * [RolesLib](smart-contracts/docs/facets/roleslib.md)
