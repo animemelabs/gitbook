@@ -80,3 +80,4 @@
       * [WithdrawFacetAccessControl](smart-contracts/docs/facets/withdraw/withdrawfacetaccesscontrol.md)
       * [IWithdrawFacet](smart-contracts/docs/facets/withdraw/iwithdrawfacet.md)
     * [RolesLib](smart-contracts/docs/facets/roleslib.md)
+  * [Interfaces](smart-contracts/docs/interfaces.md)
