@@ -1,2 +1,0 @@
-# RoyaltiesERC2981
-

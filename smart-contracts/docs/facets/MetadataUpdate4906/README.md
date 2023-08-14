@@ -1,2 +1,0 @@
-# AdminMinterERC721A
-
