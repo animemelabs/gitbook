@@ -1,4 +1,0 @@
-# IAccessControlFacet
-
-## IAccessControlFacet
-
