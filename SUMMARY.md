@@ -10,4 +10,5 @@
     * [DekohDiamond](smart-contracts/docs/diamond/dekohdiamond.md)
     * [DekohDiamondStorage](smart-contracts/docs/diamond/dekohdiamondstorage.md)
   * [Facets](smart-contracts/docs/facets/README.md)
+    * [AcessControl](smart-contracts/docs/facets/acesscontrol.md)
     * [RolesLib](smart-contracts/docs/facets/roleslib.md)
