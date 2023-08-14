@@ -9,3 +9,8 @@
   * [Dekoh](smart-contracts/docs/diamond/README.md)
     * [DekohDiamond](smart-contracts/docs/diamond/dekohdiamond.md)
     * [DekohDiamondStorage](smart-contracts/docs/diamond/dekohdiamondstorage.md)
+
+***
+
+* [Import](import/README.md)
+  * [RolesLib](import/roleslib.md)
